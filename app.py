@@ -22,4 +22,4 @@ if st.button('Predict'):
   if(op[0]==True):
     st.title("The person is diabeteic")
   else:
-    st.title("the person is not diabeteic")
+    st.title("the person is not diabeteic")    
